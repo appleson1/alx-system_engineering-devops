@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello user, $current_user!"
+echo "Hello $USER"
